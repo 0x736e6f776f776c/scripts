@@ -36,7 +36,7 @@ If you want to keep your shell torified even after closing it and/or rebooting, 
 <br><sup>**!**</sup>**In case you have _not_ set one yet, you can use my *setpasswd* script from this repository to set a password for your Tor connection**
 
 **Raw download:**<br>
-```$ wget https://raw.githubusercontent.com/techsnowowl/Tor-Scripts/master/newcircuit```
+```$ wget https://raw.githubusercontent.com/0x736e6f776f776c/Tor-Scripts/master/newcircuit```
 
 ### Set Password (setpasswd);
 
@@ -53,7 +53,7 @@ This _shell_ script sets the Tor connection authentication password to whatever 
 ```$ tail -2 /etc/tor/torrc```
 
 **Raw download:**<br>
-```wget https://raw.githubusercontent.com/techsnowowl/Tor-Scripts/master/setpasswd```
+```$ wget https://raw.githubusercontent.com/0x736e6f776f776c/Tor-Scripts/master/setpasswd```
 
 ### Always Torified (alwaystor)
 **Purpose:**<br>
@@ -66,4 +66,4 @@ A really simple oneliner, but a usefull one. It adds one line to the .bashrc. Th
 - Once you've downloaded the script from this repository one way or another and browsed into the folder, you can simply run it using<br>```$ sudo ./alwaystor```.
 
 **Raw download:**<br>
-```wget https://raw.githubusercontent.com/techsnowowl/torscripts/master/alwaystor```
+```$ wget https://raw.githubusercontent.com/0x736e6f776f776c/torscripts/master/alwaystor```
