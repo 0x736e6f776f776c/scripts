@@ -1,5 +1,5 @@
 # Tor Scripts
-A collection of shell and bash scripts to interact with Tor on Linux, written by TechSnowOwl.
+A collection of shell and bash scripts to interact with Tor on Linux, written by 0x736e6f776f776c.
 
 ## Mandatory prerequisites and information for all scripts
 - First of all, make sure you've researched how to use Tor safely.
