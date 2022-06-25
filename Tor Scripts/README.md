@@ -67,3 +67,6 @@ A really simple oneliner, but a usefull one. It adds one line to the .bashrc. Th
 
 **Raw download:**<br>
 ```$ wget https://raw.githubusercontent.com/0x736e6f776f776c/torscripts/master/alwaystor```
+
+
+**Project transferred to a new repository for privacy-related reasons, I originally started this project in 2019**
